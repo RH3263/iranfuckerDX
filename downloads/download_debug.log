@@ -1,0 +1,6 @@
+WARNING: "-f best" selects the best pre-merged format which is often not the best option.
+         To let yt-dlp download and merge the best available formats, simply do not pass any format selection.
+         If you know what you are doing and want only the best pre-merged format, use "-f b" instead to suppress this warning
+[generic] Extracting URL: https://www.youtube.com/watch%3Fv%3DaduwIDZaNJI
+[generic] watch?v=aduwIDZaNJI: Downloading webpage
+ERROR: [generic] Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
